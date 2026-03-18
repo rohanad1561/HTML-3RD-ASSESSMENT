@@ -177,7 +177,7 @@ a {
   margin: 0;
   padding: 0;
 
-  background: url("../asset/banner-bg.png") center / cover no-repeat;
+  background: url("../Asset/banner-bg.png") center / cover no-repeat;
 
   display: flex;
   align-items: center;
